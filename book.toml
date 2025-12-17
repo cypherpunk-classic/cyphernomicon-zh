@@ -5,14 +5,6 @@ language = "en"
 src = "src"
 title = "密碼聖典"
 
-[preprocessor.toc]
-command = "mdbook-toc"
-renderer = ["html"]
-marker = "[TOC]"
-max-level = 4
-
-[preprocessor.katex]
-after = ["links"]
 
 [output.html]
 theme = "theme"
