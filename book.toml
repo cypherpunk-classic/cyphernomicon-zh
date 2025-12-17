@@ -1,7 +1,7 @@
 [book]
 authors = ["Kurt Pan"]
 language = "en"
-multilingual = false
+
 src = "src"
 title = "密碼聖典"
 
